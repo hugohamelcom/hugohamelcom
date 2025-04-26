@@ -21,7 +21,7 @@ Over the last 15+ years, I worked as a digital performance analyst, conversion o
 
 It's simple: I'm building solutions that turn challenges into opportunities, transforming business chaos into simple and relaxing solutions.
 
-(Some clients even called me a 'Cyber God' for my ability to integrate technology creatively and efficiently.)
+_(Some clients even called me a 'Cyber God' for my ability to integrate technology creatively and efficiently.)_
 
 My natural talent really lies in not just knowing "the tech" but in creatively using them together in efficient ways, and my curiosity led me to master:
 
