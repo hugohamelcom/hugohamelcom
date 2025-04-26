@@ -25,25 +25,25 @@ It's simple: I'm building solutions that turn challenges into opportunities, tra
 
 My natural talent really lies in not just knowing "the tech" but in creatively using them together in efficient ways, and my curiosity led me to master:
 
-🔍 Operations: Discover hidden inefficiencies and optimize processes for greater productivity. (Within 6 months, a client doubled their revenue from $25k/month to $50k/month.)
+🔍 **Operations**: Discover hidden inefficiencies and optimize processes for greater productivity. (Within 6 months, a client doubled their revenue from $25k/month to $50k/month.)
 
-🤖 Automation: Save time by connecting tools and reducing human interaction. (A client went from working 65 hours per week to 19h/week.)
+🤖 **Automation**: Save time by connecting tools and reducing human interaction. (A client went from working 65 hours per week to 19h/week.)
 
-💡 AI: Integrate AI platforms to cut work hours and minimize errors. (A client reduced work time by 60% and delegated the rest to virtual assistants.)
+💡 **AI**: Integrate AI platforms to cut work hours and minimize errors. (A client reduced work time by 60% and delegated the rest to virtual assistants.)
 
-💻 Web Development: Build lightweight solutions efficiently. (Check out my MVP agency: [vanilladevs.com/done-for-you](https://vanilladevs.com/done-for-you))
+💻 **Web Development**: Build lightweight solutions efficiently. (Check out my MVP agency: [vanilladevs.com/done-for-you](https://vanilladevs.com/done-for-you))
 
-📊 Google Sheets: Leverage spreadsheets with custom functions. (A client managed his entire portfolio of crypto investments and returns.)
+📊 **Google Sheets**: Leverage spreadsheets with custom functions. (A client managed his entire portfolio of crypto investments and returns.)
 
-📈 Analytics: Gain insights to focus business efforts effectively. (A client got to know which sales channels to double down on and which funnel steps to improve.)
+📈 **Analytics**: Gain insights to focus business efforts effectively. (A client got to know which sales channels to double down on and which funnel steps to improve.)
 
-📢 Marketing: Utilize underground strategies to push boundaries. (A client generated 3x more results in 2 days, with 41% less spent than before.)
+📢 **Marketing**: Utilize underground strategies to push boundaries. (A client generated 3x more results in 2 days, with 41% less spent than before.)
 
-✉️ Cold Emailing: Scale outreach with robust email infrastructure. (A client's infrastructure was sending up to 2M emails monthly.)
+✉️ **Cold Emailing**: Scale outreach with robust email infrastructure. (A client's infrastructure was sending up to 2M emails monthly.)
 
-🔧 Tool Selection: Find perfect tools tailored to business needs. (Clients refer to me as their "Wikipedia of Tools" for always knowing the right solutions.)
+🔧 **Tool Selection**: Find perfect tools tailored to business needs. (Clients refer to me as their "Wikipedia of Tools" for always knowing the right solutions.)
 
-My motto: Anything that's manually done, has a tool to replace it, a way to automate it or to make it more efficient. There is always a solution!
+_**My motto**: Anything that's manually done, has a tool to replace it, a way to automate it or to make it more efficient. There is always a solution!_
 
 If you're passionate about pushing boundaries and disrupting traditional approaches, let's connect!
 
