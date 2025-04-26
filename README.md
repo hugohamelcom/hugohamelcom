@@ -21,46 +21,6 @@ I'm building solutions that turn challenges into opportunities.
 
 CMO + CTO + COO = Me 👋
 
-------
-
-Portfolio
-
--------------
-
--   [toolboxspace.com](https://toolboxspace.com/)
-
--   [llmoverwatch.com](https://llmoverwatch.com/)
-
--   [perfectpumpchallenge.com](https://perfectpumpchallenge.com/)
-
--   [cchkr.com](https://cchkr.com/)
-
--   [sumowatch.com](https://sumowatch.com/)
-
--   [sheeld.stream](https://sheeld.stream/)
-
--   [vanilladevs.com](https://vanilladevs.com/)
-
--   [viralhooksclip.com](https://viralhooksclip.com/)
-
--   [myipaddressvpn.com](https://myipaddressvpn.com/)
-
--   [mediacontactsdb.com](https://mediacontactsdb.com/)
-
--   [leftunread.top](https://leftunread.top/)
-
--   [cofy.stream](https://cofy.stream/)
-
--   [pagellama.com](https://pagellama.com/)
-
--   [hugohamel.gumroad.com](https://hugohamel.gumroad.com/)
-
--   <https://hugohamelcom.github.io/wing-man-game/>
-
-About
-
----------
-
 👋 Hey! I'm Hugo - a digital bricklayer (aka pixel builder) since 2005, creating my first website at 13. At 14, I started a podcast. By 15, I had taught myself web development (CMS, PHP & MySQL), web design (Photoshop & Illustrator) and server management (Linux). I've come a long way from taking screenshots of stacked images in a Word document to make what I considered designing.
 
 Over the last 15+ years, I worked as a digital performance analyst, conversion optimization specialist, marketing director in agencies and startups, and a growth hacker for a major Canadian corporation generating millions, and sold my AI SaaS business in 10 months.
@@ -92,3 +52,20 @@ My natural talent really lies in not just knowing "the tech" but in creatively u
 My motto: Anything that's manually done, has a tool to replace it, a way to automate it or to make it more efficient. There is always a solution!
 
 If you're passionate about pushing boundaries and disrupting traditional approaches, let's connect!
+
+## Portfolio
+- [toolboxspace.com](https://toolboxspace.com/)
+- [llmoverwatch.com](https://llmoverwatch.com/)
+- [perfectpumpchallenge.com](https://perfectpumpchallenge.com/)
+- [cchkr.com](https://cchkr.com/)
+- [sumowatch.com](https://sumowatch.com/)
+- [sheeld.stream](https://sheeld.stream/)
+- [vanilladevs.com](https://vanilladevs.com/)
+- [viralhooksclip.com](https://viralhooksclip.com/)
+- [myipaddressvpn.com](https://myipaddressvpn.com/)
+- [mediacontactsdb.com](https://mediacontactsdb.com/)
+- [leftunread.top](https://leftunread.top/)
+- [cofy.stream](https://cofy.stream/)
+- [pagellama.com](https://pagellama.com/)
+- [Wing Man Game](https://hugohamelcom.github.io/wing-man-game/)
+- [hugohamel.gumroad.com](https://hugohamel.gumroad.com/)
