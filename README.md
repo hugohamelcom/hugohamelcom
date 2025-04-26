@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hugohamelcom/hugohamelcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,17 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm building solutions that turn challenges into opportunities.
+## Hi, I'm Hugo Hamel 👋
 
--------------------------------------------------------------------
-
-CMO + CTO + COO = Me 👋
-
-👋 Hey! I'm Hugo - a digital bricklayer (aka pixel builder) since 2005, creating my first website at 13. At 14, I started a podcast. By 15, I had taught myself web development (CMS, PHP & MySQL), web design (Photoshop & Illustrator) and server management (Linux). I've come a long way from taking screenshots of stacked images in a Word document to make what I considered designing.
+I've been a digital bricklayer (aka pixel builder) since 2005, creating my first website at 13. At 14, I started a podcast. By 15, I had taught myself web development (CMS, PHP & MySQL), web design (Photoshop & Illustrator) and server management (Linux). I've come a long way from taking screenshots of stacked images in a Word document to make what I considered designing.
 
 Over the last 15+ years, I worked as a digital performance analyst, conversion optimization specialist, marketing director in agencies and startups, and a growth hacker for a major Canadian corporation generating millions, and sold my AI SaaS business in 10 months.
 
-It's simple: I transform business chaos into simple and relaxing solutions.
+It's simple: I'm building solutions that turn challenges into opportunities, transforming business chaos into simple and relaxing solutions.
 
 (Some clients even called me a 'Cyber God' for my ability to integrate technology creatively and efficiently.)
 
