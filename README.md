@@ -58,6 +58,8 @@ If you're passionate about pushing boundaries and disrupting traditional approac
 - [viralhooksclip.com](https://viralhooksclip.com/)
 - [myipaddressvpn.com](https://myipaddressvpn.com/)
 - [mediacontactsdb.com](https://mediacontactsdb.com/)
+- [Cursor Usage (Chrome Extension)](https://chromewebstore.google.com/detail/cursor-usage/feemeooihcjjkddafjjldpajadjhlela)
+- [Gas Price Portugal (Telegram Bot)](https://t.me/GasPricePT_bot)
 - [leftunread.top](https://leftunread.top/)
 - [cofy.stream](https://cofy.stream/)
 - [pagellama.com](https://pagellama.com/)
